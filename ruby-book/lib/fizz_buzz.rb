@@ -1,5 +1,3 @@
-puts 'Hello, world!'
-
 def fizz_buzz(n)
   if n % 15 == 0
     'Fizz_Buzz'
